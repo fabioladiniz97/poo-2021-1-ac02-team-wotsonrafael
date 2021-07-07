@@ -1,7 +1,7 @@
 # poo-2021-1-ac02-team-wotsonrafael
 poo-2021-1-ac02-team-wotsonrafael created by GitHub Classroom
 
-## BMExercio02
+## BMExercio01
 
 a) (F) byte x = 300;
 
