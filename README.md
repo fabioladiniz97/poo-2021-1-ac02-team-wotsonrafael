@@ -13,11 +13,11 @@ d) (V) double d = 20;
 
 e) (F) char c = 25;
 
-f) (V) boolean epar = (4%2=0) 
+f) (V) boolean epar = (4%2=0) ;
 
 g) (F) char nome = "Maria";
 
-h) (v) String b = "1" 
+h) (v) String b = "1" ;
 
 i) (v) float x = 2.7;
 
