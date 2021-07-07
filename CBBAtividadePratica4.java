@@ -1,6 +1,6 @@
-class CBBAtividadePratica4{
+class CBBAtividadePratica2{
   public static void main(String[] args){
-    int cubo = 55;
+    int cubo = 100;
     float alt = 10;
     float lateral1 = 23.4;
     float lateral2 = 30.6;
